@@ -20,23 +20,27 @@ http-server
 ```
 Follow first link in your console
 
+# Features
+:o: done :pushpin: in progress :x: cancel
+- View in 360° :o:
+- Display tooltips :pushpin:
+- navigate between multiple 360° view
+- Display videos 
+
 # Framwork :
 [Three.js](https://threejs.org/)
 
 # Ressources :
 ## 360 images 
 
-[kasuga-taisha](https://www.alamy.com/360-degree-panoramic-view-of-kasuga-taisha-shinto-shrine-nara-japan-image219413823.html)
-
-[hakone-shrine](https://www.alamy.com/360-degree-panoramic-view-of-hakone-shrine-image219139819.html)
+- [kasuga-taisha](https://www.alamy.com/360-degree-panoramic-view-of-kasuga-taisha-shinto-shrine-nara-japan-image219413823.html)
+- [hakone-shrine](https://www.alamy.com/360-degree-panoramic-view-of-hakone-shrine-image219139819.html)
 
 ## icons :
-Double Right (Arrows Symbol) By Catalin Fertu on flaticon
-
-Info (Info Symbol) By Freepik
-
-Close (Close symbol)  By Pixel perfect
+- Double Right (Arrows Symbol) By Catalin Fertu on flaticon
+- Info (Info Symbol) By Freepik
+- Close (Close symbol)  By Pixel perfect
 
 ## tutorial
 
-[Tutoriel JavaScript : Panorama 360°](https://www.youtube.com/watch?v=LbLOXsDVyaM)
+- [Tutoriel JavaScript : Panorama 360°](https://www.youtube.com/watch?v=LbLOXsDVyaM)
